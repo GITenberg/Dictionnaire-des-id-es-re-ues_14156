@@ -18,6 +18,8 @@ description: "The Dictionary of Received Ideas (or Dictionary of Accepted Ideas;
   \ It takes the form of a dictionary of automatic thoughts and platitudes, self-contradictory\
   \ and insipid. It is often paired with the Sottisier (a collection of stupid quotations\
   \ taken from the books of famous writers).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14156#Dictionnaire-des-id-es-re-ues
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text
