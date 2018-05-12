@@ -1,0 +1,42 @@
+_repo: Dictionnaire-des-id-es-re-ues_14156
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: "The Dictionary of Received Ideas (or Dictionary of Accepted Ideas; in\
+  \ French, Le Dictionnaire des idées reçues) is a short satirical work collected\
+  \ and published in 1911–13 from notes compiled by Gustave Flaubert during the 1870s,\
+  \ lampooning the clichés endemic to French society under the Second French Empire.\
+  \ It takes the form of a dictionary of automatic thoughts and platitudes, self-contradictory\
+  \ and insipid. It is often paired with the Sottisier (a collection of stupid quotations\
+  \ taken from the books of famous writers).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14156'
+  wikidata: Q3026751
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French wit and humor'
+- !lcsh 'Wisdom -- Humor'
+- !lcc 'PQ'
+title: Dictionnaire des idées reçues
+url: http://www.gutenberg.org/ebooks/14156
+wikipedia:
+- https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%A7%E1%83%9D%E1%83%95%E1%83%94%E1%83%9A%E1%83%97%E1%83%90%E1%83%9D%E1%83%93_%E1%83%9B%E1%83%98%E1%83%A6%E1%83%94%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%90%E1%83%96%E1%83%A0%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%9C%E1%83%98
+- https://fr.wikipedia.org/wiki/Dictionnaire_des_id%C3%A9es_re%C3%A7ues
+- https://en.wikipedia.org/wiki/Dictionary_of_Received_Ideas
+- https://ja.wikipedia.org/wiki/%E7%B4%8B%E5%88%87%E5%9E%8B%E8%BE%9E%E5%85%B8
+- https://sv.wikipedia.org/wiki/Lexikon_%C3%B6ver_vedertagna_%C3%A5sikter
